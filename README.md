@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Akshat Jain
 -  🎓 CSE undergrad at MANIT Bhopal
-- 👀 I’m interested in Competitive coding
+- 👀 I’m enjoy Problem Solving and Competitive Programming
 - 🌱 I’m currently learning Web Development
 
 
