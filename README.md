@@ -12,6 +12,7 @@
 ### 💬To know more about me
 -  [LinkedIn](https://www.linkedin.com/in/akshat-jain-0a073a248)
 -  [Codeforces](https://codeforces.com/profile/tic_tac)
+-  [LeetCode](https://leetcode.com/u/tic_tac/)
 -  [Codechef](https://www.codechef.com/users/tic_tac)
 
 <br />
